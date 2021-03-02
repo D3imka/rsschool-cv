@@ -8,9 +8,9 @@
 
 ## About myself:
 
-    I am 33. Whole my entire adult life I’m interested in high modern technologies for professional activities ond as a hobby.
-    I fell like I good and easily find common ground with colleagues.
-    During 13 years I maintain and develop network infrastructure and communications networks at Gomel airport.
+I am 33. Whole my entire adult life I’m interested in high modern technologies for professional activities ond as a hobby.
+I fell like I good and easily find common ground with colleagues.
+During 13 years I maintain and develop network infrastructure and communications networks at Gomel airport.
 
 ## Skills:
 
