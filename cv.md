@@ -51,7 +51,7 @@ function findShort(s){
 
     *Gomel State Machine-Building Technical School, 2003-2007, software technician;
     *Belarusian Trade and Economics University of Consumer Cooperatives, 2007-20013, information systems manager.
-    *External training EPAM front-end 2008.
+    *External training EPAM front-end 2020.
     *RS school front-end 2021.
 
 ## English:
