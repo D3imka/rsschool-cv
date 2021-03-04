@@ -57,7 +57,7 @@ code {
 footer > div {
   margin: 0 auto;
 }
-footer > div > img {
+footer > div > a > img {
   width: 100px;
   margin: 0 auto;
 }
